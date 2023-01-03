@@ -1,6 +1,6 @@
 A tool for visualizing storage usage.
 
-I recommend using WizTree, which this project is inspired by, as this is a highly unoptimized tool made recreationally
+I recommend using WizTree, which this project is inspired by, as this is a highly unoptimized tool made recreationally.
 
 
 Going to use Python to get more comfortable, I want to work with Python ML libraries in future projects.
