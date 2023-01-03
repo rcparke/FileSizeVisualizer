@@ -1,4 +1,5 @@
 A tool for visualizing storage usage.
+
 I recommend using WizTree, which this project is inspired by, as this is a highly unoptimized tool made recreationally
 
 
